@@ -1,6 +1,6 @@
 # 🚂 Train Ticket Booking System
-This project is a modular command-line based Train Ticket Booking System developed using Python.
-NOTE : this isn't a real-world problem based task. It's a task worked on for TeamADG's selections !
+**This project is a modular command-line based Train Ticket Booking System developed using Python.**
+* NOTE : this isn't a real-world problem based task. It's a task worked on for TeamADG's selections !
 ---
 
 ## ✨ Features Involved
@@ -55,7 +55,7 @@ classes.py     → Travel class details (dictionaries used)
 ---
 
 ## 👩‍💻 Author
-**Reg No:** 25BDS0098
-**Name:** Sahaana Mahesh
+* **Reg No:** 25BDS0098
+* **Name:** Sahaana Mahesh
 ---
 
