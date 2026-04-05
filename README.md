@@ -42,6 +42,11 @@ classes.py     → Travel class details (dictionaries used)
 6. Final ticket is displayed
 
 ---
+## ▶️ How to Run
+Make sure Python is installed, then run:
+python main.py
+
+---
 
 ## 🧠 Concepts Used
 
